@@ -14,3 +14,5 @@ Commande composer
       3- Dans le fichier index.php , on peut appeler require('vendor/autoload.php'); pour que l'application appel l'autoload dans vendor
 
     
+Commande php 
+php -S localhost:8080   lacer le serveur php sans besoin apache installer pour l'enviremment dev (disponible depuis php 7.2)
